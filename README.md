@@ -1,4 +1,4 @@
-# Pytho-ln_task5
+# Python_task5
 ## 📊 Sales Analysis with Pandas and Matplotlib
 
 This Python script analyzes sales data from a CSV file using Pandas and visualizes the total sales using Matplotlib.
