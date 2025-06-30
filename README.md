@@ -41,9 +41,3 @@ Make sure the CSV file is at the correct path before running.
 If you're using this in Termux or a mobile environment:
 
 Ensure you have GUI display support (like X11 forwarding or a VNC setup), or save the plot to an image file instead of showing it directly.
-
-
-You can modify the end of the script like this if needed:
-```
-plt.savefig('sales_chart.png')
-```
