@@ -29,7 +29,7 @@ Visualizes the result as a bar chart.
 ## 📈 Output
 
 The output is a bar chart that shows Total Unit Price grouped by Units Sold.
-
+![Screenshot](sales_chart.png)
 ## 🚀 How to Run
 ```
 python Sales_analysis.py
